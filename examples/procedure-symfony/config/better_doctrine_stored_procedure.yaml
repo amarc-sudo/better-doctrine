@@ -1,0 +1,2 @@
+better_doctrine_stored_procedure:
+  directory: '%kernel.project_dir%/src/Procedure'
